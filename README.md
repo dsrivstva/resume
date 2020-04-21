@@ -1,5 +1,5 @@
 # resume
-/* #*/ export const PERSON = 
+/* #*/ export const PERSON = '
 name:
   first: Deepika
   middle:
@@ -9,7 +9,7 @@ position: PhD researcher
 
 birth:
   year: 1988
-  location: India
+  place: Patiala, India
 
 experience:
 - company: Forshungszentrum Juelich GmbH Juelich, Germany

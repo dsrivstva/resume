@@ -35,7 +35,7 @@ education:
   description: equillibrium and non equillibrium study of polymeric systems using computer simulations (molecular dynamics)
  
 
-- degree: Master of Science and Emgg.
+- degree: Master of Science and Engg.
   University: Christian Albrechts University Kiel, Germany
   timeperiod: September 2012 - February 2015
   description: Major in Material Science and Engineering
@@ -46,46 +46,28 @@ education:
   timeperiod: July 2006 - May 2010
   description: Major in Metallurgical Engineering
 
-# skill level goes 0 to 100
-skills:
-- name: HTML5
-  level: 99
-- name: CSS3
-  level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
-  level: 80
-- name: ES.Next
-  level: 70
-- name: Docker
-  level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
 
-projects:
-- name: best-resume-ever
-  platform: Vue
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+Languages known:
+ - English: Professional
+ - German: Basic
+ - Hindi: Native
 
-hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
 
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
+Computer skills:
+ - Programming language: Python, Numpy, C++ 
+ - Software and packages: Linux, MS office, gnuplot, VMD, HOOMD-blue 
 
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+
+Interpersonal skills:
+ - techinal paper writing, project management, leadership, good communication
+
+
+Publications:
+ - flow behavior of chain and star polymers and their mixtures, Polymers 10, 599 (2018)
+ - Janus nanostructures from ABC/B triblock terpolymer blends, Polymers 11, 1107(2019)
+
+Online Courses:
+ - course on data scinece (statistical techniques)  
 
 contact:
   email: dsrivstva@email.com
@@ -93,6 +75,5 @@ contact:
   street: Isaac Fulda Allee 4
   city: Mainz
   Contry: Germany
-  github: johnyD
-# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
-lang: en
+  github: Deepika
+

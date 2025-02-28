@@ -1,6 +1,5 @@
 # resume
-/* #*/ 
-export const PERSON
+#*/export const PERSON
 name:
   first: Deepika
   middle:

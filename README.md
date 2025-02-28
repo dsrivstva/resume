@@ -1,17 +1,25 @@
 # resume
-/* #*/ export const PERSON = '
+/* #*/ 
+export const PERSON
 name:
   first: Deepika
   middle:
   last: Srivastva
-about: Hello, I am an enthusiatic individual whi always likes to try new things in life. Currently I am Pursuing my PhD in computation soft matter at the unoversity of MAinz. I will be finishing in couple of months and would be open to for industrial positions.
-position: PhD researcher
+about: Ph.D. graduate specializing in computational fluid dynamics and soft matter systems from Prestigious Max Planck Graduate School and Johannes Gutenberg University in Mainz (Germany). Post-doctoral researcher in coarse-grained simulation of IDPs at IISc, Bangalore. Proficiency in material science and engineering, complemented by practical expertise in molecular modeling and computer programming. Adept at molecular simulation, working knowledge of common modeling software, and experience with Python and C++. Looking for a transition into an industry role where I can further develop my skill sets and contribute to cutting-edge research initiatives. Interest in AI and ML and curious to learn and apply. 
+
+position looking for: computational Material Scientist/chemist
 
 birth:
   year: 1988
   place: Patiala, India
 
 experience:
+-company: Indian Institute of Science (Bangalore, India)
+  position: Post Doctoral Researcher
+  timeperiod: February 2022-july 2022
+  Project: Study the conformational dynamics of Intrinsically Disordered Proteins (IDPs) using computer simulation.
+  
+  Project: Characterization of Lithium ion battery using magnetography
 - company: Forshungszentrum Juelich GmbH Juelich, Germany
   position: Research Intern
   timeperiod: July 2014-February 2015
@@ -59,21 +67,22 @@ Computer skills:
 
 
 Interpersonal skills:
- - techinal paper writing, project management, leadership, good communication
+ - Techinal paper writing, project management, leadership, good communication
 
 
 Publications:
  - flow behavior of chain and star polymers and their mixtures, Polymers 10, 599 (2018)
  - Janus nanostructures from ABC/B triblock terpolymer blends, Polymers 11, 1107(2019)
+ - Controlling Janus Nanodisc Topology through ABC Triblock Terpolymer/ Homopolymer Blending in 3D Confinement, Macromolecules, 54(3), 1224-1233
 
 Online Courses:
- - course on data scinece (statistical techniques)  
+ - course on data science (statistical techniques)  
 
 contact:
   email: dsrivstva@email.com
-  phone: +4915208612595
-  street: Isaac Fulda Allee 4
-  city: Mainz
-  Contry: Germany
+  phone: +918603238238
+  street: Brigade courtyard, HMT main road
+  city: Bangalore
+  Country: India
   github: Deepika
 
